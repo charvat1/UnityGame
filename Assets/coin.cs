@@ -18,7 +18,7 @@ public class coin : MonoBehaviour {
 	}
     private void OnTriggerEnter2D(Collider2D collision)
     {
-       
+       //coin
         Debug.Log("coin collected");
         // this.gameObject.SetActive(false);
         GetComponent<AudioSource>().PlayOneShot(coinCollect);
