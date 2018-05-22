@@ -1,0 +1,29 @@
+﻿________________________________________________________________
+
+1.2 | Improvements And Complete Rework.
+________________________________________________________________
+
+The whole pack has been reworked and is now even better than 
+before! I recommend to delete the old pack when updating and 
+importing the new version.
+
+Improved:
+-Code
+-Visuals
+-Sample assets
+
+Added:
+-Camera Shake
+-Camera Knockback
+-Smooth Zoom Transitions
+
+Note: 
+Camera Events now trigger when a player stays or leaves the
+trigger zone.
+
+
+
+________________________________________________________________
+
+1.0 | First release.
+________________________________________________________________

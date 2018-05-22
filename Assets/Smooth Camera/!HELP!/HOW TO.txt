@@ -1,0 +1,31 @@
+﻿### HOW TO INFO ###
+
+Please watch the following video. It will explain everything you need to know.
+v1.2 | Video Tutorial: 
+https://youtu.be/Oqnm4T7ScbM
+
+v1.0 | Video Tutorial:
+https://youtu.be/L4g1yDA_0JU
+
+If this video wasn't helpfull here is a written tutorial for you.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+### How To Use ###
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1. Add the "SmoothPlayerCam" script to your camera and drag the player 
+   into the script field named "Player".
+2. Tag your player as "Player" this will be used to trigger the
+   cam events.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+### Still Got Questions? ###
+No problem I'm happy to help you just contact me via e-mail, twitter or 
+visit my website for more information.
+
+
+_______________________________________________________________________
+#################################
+######### By SchrippleA #########
+#################################
